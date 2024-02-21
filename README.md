@@ -7,7 +7,7 @@ Front Software Engineer
 - 🫶 I am looking and available for new opportunities
 - 🔭 In my free time working on a project where we are creating a new way for people to make payments in Argentina - [Simplus Pay](https://www.simpluspay.com/)
 
-### Hoobs ⚡
+### Hobby ⚡
 - 🐝 I'm passionate about and a breeder of native stingless bees here in Brazil 💌
 
 ## Find me elsewhere 🌎
