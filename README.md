@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Michel Rodrigues
 Front Software Engineer
 
-🇧🇷 Born and living in São Paulo, Brazil
+I was born and live in São Paulo, Brazil
 
 ### What I'm working on 👨‍💻
 - 🫶 I am looking and available for new opportunities
