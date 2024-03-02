@@ -4,7 +4,7 @@ Front Software Engineer
 I was born and live in São Paulo, Brazil
 
 ### What I'm working on 👨‍💻
-- 🫶 I am looking and available for new opportunities
+- 💼 I work as a Senior Software Engineer at [@capimbr](https://github.com/capimbr)
 - 🔭 In my free time working on a project where we are creating a new way for people to make payments in Argentina - [Simplus Pay](https://www.simpluspay.com/)
 
 ### Hobby ⚡
